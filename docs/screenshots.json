@@ -1,0 +1,5 @@
+[
+  {"file":"01-sidebar.png","caption":"The docked sidebar lists clipboard history sorted by type, with color swatches, image thumbnails, source apps and relative times.","alt":"ClipTypeSidebar docked clipboard history sidebar"},
+  {"file":"02-text-transforms.png","caption":"Right-click any text item to paste, pin, or transform it to UPPERCASE, Title Case, sorted lines and more.","alt":"Row context menu with Transform submenu"},
+  {"file":"03-settings.png","caption":"Settings let you set the global hotkey, edge reveal, retention limits, ignored apps and paste behavior.","alt":"ClipTypeSidebar Settings window"}
+]

@@ -1,5 +1,7 @@
 # ClipTypeSidebar
 
+**🌐 Website:** [turhe123.github.io/clip-type-sidebar](https://turhe123.github.io/clip-type-sidebar/)
+
 A docked clipboard sidebar that sorts history into text, links, images, colors and files with text transforms.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -31,7 +33,17 @@ ClipTypeSidebar is a free, open-source, 100% native, backend-free alternative to
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-sidebar.png" alt="ClipTypeSidebar docked clipboard history sidebar" width="720"></p>
+
+<p align="center"><em>The docked sidebar lists clipboard history sorted by type, with color swatches, image thumbnails, source apps and relative times.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-text-transforms.png" alt="Row context menu with Transform submenu" width="560"></p>
+
+<p align="center"><em>Right-click any text item to paste, pin, or transform it to UPPERCASE, Title Case, sorted lines and more.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-settings.png" alt="ClipTypeSidebar Settings window" width="560"></p>
+
+<p align="center"><em>Settings let you set the global hotkey, edge reveal, retention limits, ignored apps and paste behavior.</em></p>
 
 ## Install
 
